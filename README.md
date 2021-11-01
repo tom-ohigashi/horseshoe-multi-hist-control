@@ -5,9 +5,9 @@ The following files are included:
 
 - `BIN_case_study.R`: Code for completing a clinical trial example with binary endpoint reported in manuscript.
 
-- `Surv_case_study.R`: Code for completing a clinical trial example with time-to-event endpoint. Note – since the raw data for this example is not publicly available, this code generates a simulated dataset and analyzes it.
+- `Surv_case_study.R`: Code for completing a clinical trial example with time-to-event endpoint. Note – since the raw data for the example reported in manuscript is not publicly available, this code generates a simulated dataset and analyzes it.
 
-- `Surv_cov_case_study.R`: Code for completing a clinical trial example with time-to-event endpoint and covariate adjustment. Note – since the raw data for this example is not publicly available, this code generates a simulated dataset and analyzes it.
+- `Surv_cov_case_study.R`: Code for completing a clinical trial example with time-to-event endpoint and covariate adjustment. Note – since the raw data for this example reported in manuscript is not publicly available, this code generates a simulated dataset and analyzes it.
 
 - `Stan_BIN`, `Stan_Surv`, `Stan_Surv_Cov`: Directory containing stan codes called in each sample code.
 
