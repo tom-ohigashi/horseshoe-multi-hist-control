@@ -12,5 +12,5 @@ The following files are included:
 - Stan_bin, Stan_surv, Stan_surv_cov: Directory containing stan codes called in each sample code.
 
 ## Software Dependencies
-All code and analyses generated in R version 4.1.1 and used Stan via 'cmdstnr' 0.4.0 package.
+All code and analyses generated in R version 4.1.1 and used Stan via `cmdstnr` 0.4.0 package.
 
