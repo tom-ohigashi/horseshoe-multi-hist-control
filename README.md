@@ -9,7 +9,7 @@ The following files are included:
 
 - `Surv_cov_case_study.R`: Code for completing a clinical trial example with time-to-event endpoint and covariate adjustment. Note – since the raw data for this example is not publicly available, this code generates a simulated dataset and analyzes it.
 
-- `Stan_BIN`, `Stan_Surv`, `Stan_Surv_cov`: Directory containing stan codes called in each sample code.
+- `Stan_BIN`, `Stan_Surv`, `Stan_Surv_Cov`: Directory containing stan codes called in each sample code.
 
 ## Software Dependencies
 All code and analyses generated in R version 4.1.1 and used Stan via `cmdstnr` package (version 0.4.0).
