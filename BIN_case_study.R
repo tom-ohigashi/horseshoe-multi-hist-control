@@ -1,4 +1,3 @@
-# install.packages("StudyPrior", repos="http://R-Forge.R-project.org")
 # install.packages(c("VGAM", "minpack.lm"))
 # install.packages("StudyPrior", repos="http://R-Forge.R-project.org")
 library(stats4)
