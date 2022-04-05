@@ -1,6 +1,6 @@
 # Using horseshoe prior for incorporating multiple historical control data in randomized controlled trials
 
-This repository contains the code used to completion the case study in a manuscript (being under peer review) entitled "Using horseshoe prior for incorporating multiple historical control data in randomized controlled trials" by Tomohiro Ohigashi, Kazushi Maruo, Takashi Sozu and Masahiko Gosho.
+This repository contains the code used to completion the case study in a manuscript entitled ["Using horseshoe prior for incorporating multiple historical control data in randomized controlled trials"](https://journals.sagepub.com/doi/10.1177/09622802221090752) by Tomohiro Ohigashi, Kazushi Maruo, Takashi Sozu and Masahiko Gosho.
 The following files are included:
 
 - `BIN_case_study.R`: Code for completing a clinical trial example with binary endpoint reported in manuscript.
